@@ -1,4 +1,0 @@
-enum AuthType{
-  success,
-  fail,
-}
